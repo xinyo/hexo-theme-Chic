@@ -240,7 +240,7 @@ You have 2 method to import image in your post:
    ```
  - hexo built-in image tag (With image-title)
    ```
-   {% img [class names] /path/to/image [width] [height] '"alt text" "title text"' %}
+   <!--- {% img [class names] /path/to/image [width] [height] '"alt text" "title text"' %} --->
    ```
 So if you want to import as fast as possible, you can use GFM，and this way will also get best adaptability. 
 
