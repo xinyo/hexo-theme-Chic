@@ -1,4 +1,4 @@
-<h1 align="center"><a href="https://github.com/Siricee/hexo-theme-Chic" target="_blank">Chic Theme</a></h1>
+<h1 align="center"><a href="https://github.com/xinyo/hexo-theme-Chic" target="_blank">Chic Theme</a></h1>
 
 <p align="center">
 <img src="https://i.loli.net/2019/06/12/5d006bd289aa325037.png" alt="Chic theme">
@@ -40,8 +40,8 @@
 An elegant,powerful,easy-to-read Hexo theme.
 
 ## Demo
-- [Demo site](https://siricee.github.io/hexo-theme-Chic)
-- <del>[Author's blog](https://siricee.github.io/)</del> (*Not by Hexo currently*.)
+- [Demo site](https://xinyo.github.io/hexo-theme-Chic)
+- <del>[Author's blog](https://xinyo.github.io/)</del> (*Not by Hexo currently*.)
 
 ## Features
 - Appropriate blank blocks,elegant but not simple.
@@ -60,7 +60,7 @@ An elegant,powerful,easy-to-read Hexo theme.
 
 ```bash
 cd your-blog/themes
-git clone https://github.com/Siricee/hexo-theme-Chic.git Chic
+git clone https://github.com/xinyo/hexo-theme-Chic.git Chic
 // Modify theme setting in _config.yml to Chic.
 ```
 
@@ -120,7 +120,7 @@ links:
 #  QQ:
 #  Weibo:
 #  WeChat:
-  Github: https://github.com/Siricee
+  Github: https://github.com/xinyo
 
 # how links show: you have 2 choice--text or icon.
 links_text_enable: false
@@ -228,7 +228,7 @@ mathjax:
     mathjax: true # add this statement,MathJax will enable in this post.
     ---
     ```
-LaTeX grammers will not be illustrated in this doc. In Chic theme, Single '$' rounded statement is regarded as inline formula like `$f(x)=ax+b$` ; Double '$' rounded statement is regarded as block formula like `$$f(x)=ax+b$$`.More information please read LaTeX doc and [Formula test page in Demo Site](https://siricee.github.io/hexo-theme-Chic/2019/07/05/MathJax_test/).
+LaTeX grammers will not be illustrated in this doc. In Chic theme, Single '$' rounded statement is regarded as inline formula like `$f(x)=ax+b$` ; Double '$' rounded statement is regarded as block formula like `$$f(x)=ax+b$$`.More information please read LaTeX doc and [Formula test page in Demo Site](https://xinyo.github.io/hexo-theme-Chic/2019/07/05/MathJax_test/).
 
 ### Image-title
 
@@ -248,7 +248,7 @@ So if you want to import as fast as possible, you can use GFM，and this way wil
 - `"alt text"` is used when image not load or something wrong in that image 404.
 - `"title text"` **will be displayed below the image.**
 
-You can preview image-title and sample code in [Demo site](https://siricee.github.io/hexo-theme-Chic/2019/06/05/markdown_test/#Image)
+You can preview image-title and sample code in [Demo site](https://xinyo.github.io/hexo-theme-Chic/2019/06/05/markdown_test/#Image)
 
 ## Customize
 
@@ -274,7 +274,7 @@ You can preview image-title and sample code in [Demo site](https://siricee.githu
 
     # URL
     ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-    url: https://siricee.github.io/hexo-theme-Chic/  # this is your deploy url.
+    url: https://xinyo.github.io/hexo-theme-Chic/  # this is your deploy url.
     root: /hexo-theme-Chic/  # this is your root folder url.
     permalink: :year/:month/:day/:title/
     permalink_defaults:
@@ -306,6 +306,6 @@ You can preview image-title and sample code in [Demo site](https://siricee.githu
 ![smartmockups_jwrd9y4r.png](https://i.loli.net/2019/06/12/5d00a085ec26284832.png)
 
 ## LICENSE
-Chic © [@Sirice](https://github.com/Siricee)
+Chic © [@Sirice](https://github.com/xinyo)
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.

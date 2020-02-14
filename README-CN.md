@@ -1,4 +1,4 @@
-<h1 align="center"><a href="https://github.com/Siricee/hexo-theme-Chic" target="_blank">Chic Theme</a></h1>
+<h1 align="center"><a href="https://github.com/xinyo/hexo-theme-Chic" target="_blank">Chic Theme</a></h1>
 
 <p align="center">
 <img src="https://i.loli.net/2019/06/12/5d006bd289aa325037.png" alt="Chic theme">
@@ -36,8 +36,8 @@
 优雅、功能全面、阅读友好的hexo主题。
 
 ## Demo 演示
-- [Demo site](https://siricee.github.io/hexo-theme-Chic)
-- <del>[作者的博客](https://siricee.github.io/)</del> (*不再使用 hexo 驱动*)
+- [Demo site](https://xinyo.github.io/hexo-theme-Chic)
+- <del>[作者的博客](https://xinyo.github.io/)</del> (*不再使用 hexo 驱动*)
 
 ## Features 特点
 - 恰到好处的留白，优雅却不简陋。
@@ -51,7 +51,7 @@
 
 ```bash
 cd your-blog/themes
-git clone https://github.com/Siricee/hexo-theme-Chic.git Chic
+git clone https://github.com/xinyo/hexo-theme-Chic.git Chic
 // Modify theme setting in _config.yml to Chic.
 ```
 
@@ -111,7 +111,7 @@ links:
 #  QQ:
 #  Weibo:
 #  WeChat:
-  Github: https://github.com/Siricee
+  Github: https://github.com/xinyo
 
 # how links show: you have 2 choice--text or icon.
 links_text_enable: false
@@ -218,7 +218,7 @@ mathjax:
     mathjax: true # 加入这个声明，这篇文章就会开启mathjax渲染
     ---
     ```
-LaTeX语法这里不做解释，本主题中，单dollar符号包围的为行内公式，例：`$f(x)=ax+b$`，双dollar符号包围的为块公式，例`$$f(x)=ax+b$$`更多写法请参考LaTeX和[Demo site中的公式测试页面](https://siricee.github.io/hexo-theme-Chic/2019/07/05/MathJax_test/)。
+LaTeX语法这里不做解释，本主题中，单dollar符号包围的为行内公式，例：`$f(x)=ax+b$`，双dollar符号包围的为块公式，例`$$f(x)=ax+b$$`更多写法请参考LaTeX和[Demo site中的公式测试页面](https://xinyo.github.io/hexo-theme-Chic/2019/07/05/MathJax_test/)。
 
 ### 图片标题
 
@@ -238,7 +238,7 @@ LaTeX语法这里不做解释，本主题中，单dollar符号包围的为行内
 - `"alt text"`用来显示当图片加载失败时垫底的提示文字。
 - `"title text"`将会被显示到图片下方作为图片标题。
 
-你可以在 [Demo site](https://siricee.github.io/hexo-theme-Chic/2019/06/05/markdown_test/#Image) 中查看图片标题的效果和示例语法。
+你可以在 [Demo site](https://xinyo.github.io/hexo-theme-Chic/2019/06/05/markdown_test/#Image) 中查看图片标题的效果和示例语法。
 
 ## Customize 自定义
 - 代码高亮风格 在`hexo-theme-Chic\themes\Chic\source\css\style.styl`中更改highlight为`_highlight`文件夹中的stylus文件即可更换代码高亮风格。
@@ -256,7 +256,7 @@ LaTeX语法这里不做解释，本主题中，单dollar符号包围的为行内
     
     # URL
     ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-    url: https://siricee.github.io/hexo-theme-Chic/  # 此处为你的部署url
+    url: https://yourname.github.io/hexo-theme-Chic/  # 此处为你的部署url
     root: /hexo-theme-Chic/  # 此处为你的项目根文件夹url。
     permalink: :year/:month/:day/:title/
     permalink_defaults:
@@ -288,6 +288,6 @@ LaTeX语法这里不做解释，本主题中，单dollar符号包围的为行内
 ![smartmockups_jwrd9y4r.png](https://i.loli.net/2019/06/12/5d00a085ec26284832.png)
 
 ## LICENSE 开源许可
-Chic © [@Sirice](https://github.com/Siricee)
+Chic © [@Sirice](https://github.com/xinyo)
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.

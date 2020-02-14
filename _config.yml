@@ -1,5 +1,5 @@
 # Header
-navname: Bentham's Blog
+navname: Xinyo's Blog
 
 # navigatior items
 nav:
@@ -12,11 +12,11 @@ nav:
 favicon: /favicon.ico
 
 # Profile
-nickname: Jeremy Bentham
+nickname: Xinyo
 
 ### this variable is MarkDown form.
-description: Lorem ipsum dolor sit amet, **consectetur adipiscing elit.** <br>Fusce eget urna vitae velit *eleifend interdum at ac* nisi.
-avatar: /image/avatar.jpeg
+description: 還想和你談論宇宙和天空<br>或是沙灘裡的碎石和人生
+avatar: /image/avatar.jpg
 
 # main menu navigation
 ## links key words should not be changed.
@@ -33,7 +33,7 @@ links:
 #  Gallary:
 #  RSS:
 #  AliPay:
-  ZhiHu: https://www.zhihu.com/people/sirice
+#  ZhiHu: 
 #  LinkedIn:
 #  FaceBook:
 #  Twitter:
@@ -43,13 +43,14 @@ links:
 #  Sketch:
 #  Gitlab:
 #  Dribble:
-  Instagram:
-  Reddit:
+  Instagram: https://www.instagram.com/xinyoc/
+#  Reddit:
 #  YouTube:
 #  QQ:
 #  Weibo:
 #  WeChat:
-  Github: https://github.com/Siricee
+  Github: https://github.com/xinyo
+  Steam: 
 
 # how links show: you have 2 choice--text or icon.
 links_text_enable: false
